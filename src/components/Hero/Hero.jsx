@@ -24,8 +24,7 @@ const Hero = () => {
                         <a
                             className="px-5 py-2.5 bg-[#038C61] rounded-[44px]"
                             href="#"
-                        >Learn More</a
-                        >
+                        >Learn More</a>
                     </div>
                 </div>
             </div>

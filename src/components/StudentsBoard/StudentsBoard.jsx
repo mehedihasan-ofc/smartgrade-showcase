@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import StudentsTable from "../StudentsTable/StudentsTable";
 import SearchBox from "../SearchBox/SearchBox";
 
-const Students = () => {
+const StudentsBoard = () => {
 
     const [classData, setClassData] = useState([]);
 
@@ -30,4 +30,4 @@ const Students = () => {
     );
 };
 
-export default Students;
+export default StudentsBoard;

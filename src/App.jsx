@@ -1,14 +1,14 @@
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
 import Footer from './components/Footer/Footer';
-import Students from './components/Students/Students';
+import StudentsBoard from './components/StudentsBoard/StudentsBoard';
 
 const App = () => {
   return (
     <>
       <Navbar />
       <Hero />
-      <Students />
+      <StudentsBoard />
       <Footer />
     </>
   );

@@ -2,8 +2,6 @@ import TableRow from "../TableRow/TableRow";
 
 const StudentsTable = ({ classData }) => {
 
-    console.log(classData);
-
     return (
         <table className="w-full">
             <thead>

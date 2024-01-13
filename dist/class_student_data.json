@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "classTitle": "Class One",
+        "studentData": [
+            {
+                "id": 1,
+                "name": "John Smith",
+                "score": "A+",
+                "percentage": 95,
+                "avatar": "https://i.ibb.co/60HnHcg/backpack.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Jane Doe",
+                "score": "A-",
+                "percentage": 85,
+                "avatar": "https://i.ibb.co/R9wwqk5/crossing-his-finger.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Bob Johnson",
+                "score": "A",
+                "percentage": 90,
+                "avatar": "https://i.ibb.co/pPMjqKJ/elementary.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Emily White",
+                "score": "B+",
+                "percentage": 88,
+                "avatar": "https://i.ibb.co/q7hbmwf/front-view.jpg"
+            },
+            {
+                "id": 5,
+                "name": "David Brown",
+                "score": "A",
+                "percentage": 92,
+                "avatar": "https://i.ibb.co/RBFSFHf/front-view-little-boy.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Grace Wilson",
+                "score": "A-",
+                "percentage": 89,
+                "avatar": "https://i.ibb.co/6NS9z17/holding-stack-books.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Tom Miller",
+                "score": "B",
+                "percentage": 80,
+                "avatar": "https://i.ibb.co/j6mD674/portrait.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Linda Davis",
+                "score": "A+",
+                "percentage": 96,
+                "avatar": "https://i.ibb.co/nCgZRpD/portrait-young.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Kevin Clark",
+                "score": "B-",
+                "percentage": 75,
+                "avatar": "https://i.ibb.co/4jxtmZr/shot-boy-posing.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Sara Turner",
+                "score": "A",
+                "percentage": 91,
+                "avatar": "https://i.ibb.co/PgY6WCp/smiley.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "classTitle": "Class Two",
+        "studentData": [
+            {
+                "id": 1,
+                "name": "Alice Brown",
+                "score": "A+",
+                "percentage": 92,
+                "avatar": "https://i.ibb.co/NxDdYBQ/view-boy-with-books.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Charlie Wilson",
+                "score": "A",
+                "percentage": 88,
+                "avatar": "https://i.ibb.co/1zRBGTb/with-glasses.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Diana Miller",
+                "score": "A-",
+                "percentage": 87,
+                "avatar": "https://i.ibb.co/RBFSFHf/front-view-little-boy.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Michael Taylor",
+                "score": "B",
+                "percentage": 79,
+                "avatar": "https://i.ibb.co/8cWCbwQ/young-book.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Sophie Turner",
+                "score": "B+",
+                "percentage": 85,
+                "avatar": "https://i.ibb.co/60HnHcg/backpack.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Ryan Adams",
+                "score": "A",
+                "percentage": 93,
+                "avatar": "https://i.ibb.co/R9wwqk5/crossing-his-finger.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Emma White",
+                "score": "A-",
+                "percentage": 88,
+                "avatar": "https://i.ibb.co/pPMjqKJ/elementary.jpg"
+            },
+            {
+                "id": 8,
+                "name": "John Davis",
+                "score": "B-",
+                "percentage": 76,
+                "avatar": "https://i.ibb.co/q7hbmwf/front-view.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Olivia Miller",
+                "score": "A+",
+                "percentage": 97,
+                "avatar": "https://i.ibb.co/RBFSFHf/front-view-little-boy.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Peter Smith",
+                "score": "B",
+                "percentage": 82,
+                "avatar": "https://i.ibb.co/6NS9z17/holding-stack-books.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "classTitle": "Class Three",
+        "studentData": [
+            {
+                "id": 1,
+                "name": "Eva Johnson",
+                "score": "A+",
+                "percentage": 94,
+                "avatar": "https://i.ibb.co/j6mD674/portrait.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Andrew Brown",
+                "score": "A",
+                "percentage": 89,
+                "avatar": "https://i.ibb.co/nCgZRpD/portrait-young.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Isabel Davis",
+                "score": "A-",
+                "percentage": 88,
+                "avatar": "https://i.ibb.co/4jxtmZr/shot-boy-posing.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Lucas Turner",
+                "score": "B",
+                "percentage": 78,
+                "avatar": "https://i.ibb.co/PgY6WCp/smiley.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Sophia Clark",
+                "score": "B+",
+                "percentage": 86,
+                "avatar": "https://i.ibb.co/NxDdYBQ/view-boy-with-books.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Max Wilson",
+                "score": "A",
+                "percentage": 91,
+                "avatar": "https://i.ibb.co/1zRBGTb/with-glasses.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Natalie Miller",
+                "score": "A-",
+                "percentage": 87,
+                "avatar": "https://i.ibb.co/RBFSFHf/front-view-little-boy.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Jack Smith",
+                "score": "B-",
+                "percentage": 74,
+                "avatar": "https://i.ibb.co/8cWCbwQ/young-book.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Ava Adams",
+                "score": "A+",
+                "percentage": 98,
+                "avatar": "https://i.ibb.co/60HnHcg/backpack.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Daniel White",
+                "score": "B",
+                "percentage": 81,
+                "avatar": "https://i.ibb.co/R9wwqk5/crossing-his-finger.jpg"
+            }
+        ]
+    }
+]

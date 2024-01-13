@@ -2,8 +2,6 @@ import StudentRow from '../StudentRow/StudentRow';
 
 const TableRow = ({ singleClass }) => {
 
-    console.log(singleClass);
-
     return (
         <>
             <tr className="bg-white/5">
